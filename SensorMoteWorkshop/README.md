@@ -1,6 +1,6 @@
-DataSensingLab
-==============
+DSL Sensor Mote Workshop Board
+===========================================
 
-Files for the DataSensingLab work
+The Arduino code and PCB files for the Data Sensing Lab workshops are located here.
 
-The Arduino code and PCB files for the various DataSensingLab projects are located here
+These files are upgraded versions of the board designed for the book "Distributed Network Data"
