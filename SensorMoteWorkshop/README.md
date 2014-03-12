@@ -1,7 +1,7 @@
 DSL Sensor Mote Workshop Board
 ===========================================
 
-
+<img src="https://raw.github.com/kippkitts/kippkitts.github.io/master/Images/DataSensingLab_workshop.JPG" width="300px" height="200px"/>
 
 Arduino and Processing code, as well as PCB files, for the DataSensingLab workshops are located here. 
 
