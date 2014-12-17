@@ -1,7 +1,10 @@
+// You must download and install the Adafruit BMP085 library.
+// The library and installation instructions are available here:
+// https://github.com/adafruit/Adafruit-BMP085-Library
 
 #include <Wire.h>
 #include "Adafruit_BMP085.h"
- 
+
 Adafruit_BMP085 bmp;
  
 
